@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Utilizador extends SpotifyPOO {
+public class Utilizador {
 
     private String id; //email
     private String nome;
