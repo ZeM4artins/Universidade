@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Podcast extends SpotifyPOO {
+public class Podcast {
 
     private String nome;
     private List<Episodio> episodios_podcast;
